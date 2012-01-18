@@ -2,4 +2,6 @@ cmake_minimum_required(VERSION 2.8)
 project(langs)
 find_package(catkin REQUIRED)
 catkin_stack()
-catkin_project(langs)
+catkin_project(langs
+  DEPENDS ${langs_DEPENDS}
+)
