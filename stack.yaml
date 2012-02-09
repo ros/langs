@@ -2,7 +2,7 @@ Catkin-ProjectName: langs
 Version: 0.2.0
 Description: meta package for language bindings.
 
-Depends: catkin, genmsg, gencpp, genpy
+Depends: catkin, genmsg, gencpp, genpy, genlisp
 Author: The ROS Ecosystem
 Maintainer: Troy Straszheim <straszheim@willowgarage.com>
 Homepage: http://www.ros.org
