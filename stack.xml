@@ -1,0 +1,20 @@
+<stack>
+  <name>langs</name>
+  <version>0.3.2</version>
+  <description>Meta package for language bindings.</description>
+  <author>The ROS Ecosystem</author>
+  <maintainer email="dthomas@willowgarage.com">Dirk Thomas</maintainer>
+  <license>BSD</license>
+  <copyright>Willow Garage</copyright>
+  <url>http://www.ros.org</url>
+
+  <build_depends>catkin</build_depends>
+  <build_depends>gencpp</build_depends>
+  <build_depends>genlisp</build_depends>
+  <build_depends>genpy</build_depends>
+
+  <depends>catkin</depends>
+  <depends>gencpp</depends>
+  <depends>genlisp</depends>
+  <depends>genpy</depends>
+</stack>
