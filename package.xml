@@ -8,7 +8,6 @@
   <license>BSD</license>
 
   <url type="website">http://www.ros.org</url>
-  <author>The ROS Ecosystem</author>
 
   <build_depend>catkin</build_depend>
   <run_depend>catkin</run_depend>
