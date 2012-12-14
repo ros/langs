@@ -9,7 +9,7 @@
   <url type="bugtracker">https://github.com/ros/langs/issues</url>
   <url type="repository">https://github.com/ros/langs</url>
 
-  <build_depend>catkin</build_depend>
+  <buildtool_depend>catkin</buildtool_depend>
 
   <!-- workaround to provide the generators to dry downstream packages -->
   <run_depend>message_generation</run_depend>
