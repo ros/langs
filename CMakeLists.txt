@@ -3,4 +3,4 @@ project(langs)
 
 find_package(catkin REQUIRED)
 
-catkin_package(CATKIN_DEPENDS cpp_common roscpp_serialization roscpp_traits rostime)
+catkin_package(CATKIN_DEPENDS message_generation message_runtime)
