@@ -3,7 +3,7 @@
   <name>langs</name>
   <version>0.4.8</version>
   <description>Package modeling the run-time dependencies for language bindings of messages.</description>
-  <maintainer email="dthomas@willowgarage.com">Dirk Thomas</maintainer>
+  <maintainer email="dthomas@osrfoundation.org">Dirk Thomas</maintainer>
   <license>BSD</license>
 
   <url type="bugtracker">https://github.com/ros/langs/issues</url>
